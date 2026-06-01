@@ -1,7 +1,7 @@
 /**
  * T2 - Resolução de Problemas com Grafos
  * Curso: Ciências da Computação - Universidade de Fortaleza (Unifor)
- * Orientador: Prof. Felipe Jucá
+ * Orientador: Prof. Ricardo Carubbi
  * Grupo A: Lucas Peixoto Magalhães e Arthur Alves
  * Problema: CSES - Shortest Routes I
  *
