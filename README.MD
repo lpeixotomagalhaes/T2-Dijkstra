@@ -1,7 +1,7 @@
 # T2 - Resolução de Problemas com Grafos
 
 **Instituição:** Universidade de Fortaleza (Unifor) - Ciências da Computação  
-**Orientador:** Prof. Felipe Jucá  
+**Orientador:** Prof. Ricardo  
 **Grupo A:** Lucas Peixoto Magalhães e Arthur Alves  
 
 ## Informações do Problema
